@@ -55,7 +55,7 @@ Released   : 20110926
 	</ul>
 	<br class="clear" />
 	<script type="text/javascript">
-		$('#gallery').poptrox();
+		$('gallery').poptrox();
 		</script>
 	<!-- end -->
 </div>
