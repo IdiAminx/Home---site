@@ -206,6 +206,7 @@ a:hover {
 }
 
 #menu .current_page_item a {
+	color: #bc7a4a;
 }
 
 /* Background */
@@ -242,7 +243,7 @@ a:hover {
 #sidebar {
 	float: left;
 	width: 270px;
-	color: #fa6400;
+	color: #bc7a4a;
 }
 
 #poptrox {
