@@ -44,10 +44,10 @@ Released   : 20110926
 <div id="poptrox">
 	<!-- start -->
 	<ul id="gallery">
-		<li><a href="images/img01_big.jpg"><img src="images/img01.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
-		<li><a href="images/img02_big.jpg"><img src="images/img02.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
-		<li><a href="images/img03_big.jpg"><img src="images/img03.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
-		<li><a href="images/img04_big.jpg"><img src="images/img04.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
+		<li><a href="images/img01_big.jpg"><img src="images/img01.jpg" title="Gallery Powered by POPTROX from n33.co" alt="gallery" /></a></li>
+		<li><a href="images/img02_big.jpg"><img src="images/img02.jpg" title="Gallery Powered by POPTROX from n33.co" alt="gallery" /></a></li>
+		<li><a href="images/img03_big.jpg"><img src="images/img03.jpg" title="Gallery Powered by POPTROX from n33.co" alt="gallery" /></a></li>
+		<li><a href="images/img04_big.jpg"><img src="images/img04.jpg" title="Gallery Powered by POPTROX from n33.co" alt="gallery" /></a></li>
 		<!--<li><a href="images/img02_big.jpg"><img src="images/img02.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
 		<li><a href="images/img01_big.jpg"><img src="images/img01.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
 		<li><a href="images/img04_big.jpg"><img src="images/img04.jpg" title="Phasellus nec erat sit amet nibh pellentesque congue." alt="" /></a></li>
@@ -55,7 +55,7 @@ Released   : 20110926
 	</ul>
 	<br class="clear" />
 	<script type="text/javascript">
-		$('gallery').poptrox();
+		$('#gallery').poptrox();
 		</script>
 	<!-- end -->
 </div>
@@ -64,14 +64,14 @@ Released   : 20110926
 		<div id="bg2">
 			<div id="bg3">
 				<div id="content">
-					<h2>Bienvenidos al proyecto the Id</h2>
-					<p>Este cdn se llama <strong>Photoshoot</strong> y fue lanzado bajo la licencia&nbsp;<a href="//shash-org.tk/license.txt">Creative Commons Attribution</a> por</p> <a href="//templated.co" rel="nofollow">TEMPLATED</a> que los distribuye gratis ahí en su sitio.</p>
+					<h2>Bienvenidos al proyecto the id</h2>
+					<p>Este cdn se llama <strong>Photoshoot</strong> y fue lanzado bajo la licencia&nbsp;<a href="/LICENSE">Creative Commons Attribution</a> por <a href="//templated.co" rel="nofollow">TEMPLATED</a> que los distribuye gratis ahí en su sitio.</p>
 					<p>Èsta página està ubicada en los servidores de <a href="//github.com" rel="nofollow">GitHub</a>. <a href="//github.com" rel="nofollow">GitHub</a> te permite crear proyectos en programación con chequeo de vewrsión automático. Lo que permite que varios programadores estén trabajando en el mismo proyecto al mismo tiempo. El estado actual de los proyectos se encuentran en la rama original que se llama master. Cuando alguien implementa por ejemplo una nueva función crea otra rama branch al costado de master y cuando termina de codificar esa función solicita un pull-request en donde los otros programadores chequean que la función funcione bien entonces se solicita un merge del branch con el origen del master y la nueva función queda implementada en la versión actual del programa, rama original master.</p>
 					<p>Con cada repositorio o proyecto, <a href="//github.com" rel="nofollow">GitHub</a> te permite tener una página web para presentar el proyecto, ademàs cada usuario tiene opciòn de una página extra de usuario y la página de la organizacn a la que pertenece ese usuario. Por ejemplo yo soy hincha de <strong>CA Centenario Uruguayo</strong> y puedo tener mi página de usuario y además una página no oficial de <strong>Centenario-Uruguayo</strong>. Más todos los proyectos que yo inicie, osea son varias páginas que <a href="//github.com" rel="nofollow">GitHub</a> te permite.</p>
 					<p>Al costado les describo como iniciar rápidamente una página web sin siquiera tener un proyecto de programación en mente como hice yo simplemente ésta página.</p>
 				</div>
 				<div id="sidebar">
-					<h2>Iniciarse en GitHub</h2>
+					<h2><p><span style="color: #bc7a4a">Inicio en </span><a href="//github.com" rel="nofollow"><span style="color: #FFFFFF">GitHub</span></a></p></h2>
 					<!--<ul>
 						<li><a href="/nombre.html"><h3>nombre</h3></a></li>
 						<li><a href="/copia.html"><h3>clonar/copiar</h3></a></li>
@@ -87,7 +87,7 @@ Released   : 20110926
   						<a class="list-group-item" href="/deploy.html"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i>&nbsp; Construir Site / Deploy</a>
   						<a class="list-group-item" href="/publicar.html"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Push / Publicar</a>
 						<a class="list-group-item" href="/dominio.html"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Dominio Propio</a>
-						<a class="list-group-item" href="/modificar.html"><i class="fa fa-cog fa-fw"></i>&nbsp; Modificar Site</a>
+						<a class="list-group-item" href="/modificar.html"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Modificar Site</a>
 						<a class="list-group-item" href="/proyecto.html"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp; Proyecto</a>
 					</div>
 
@@ -97,7 +97,7 @@ Released   : 20110926
 	</div>
 </div>
 <div id="footer">
-	<p>&copy; ID from SHASH-ORG.TK <img src="/favicon.ico" />. Todos los Derechos Reservados. Diseño por <a href="//templated.co" rel="nofollow">TEMPLATED</a>.</p>
+	<p>&copy; ID from <a href="//shash.org">SHASH-ORG.TK</a> <img src="/favicon.ico" />. Todos los Derechos Reservados. Diseño por <a href="//templated.co" rel="nofollow">TEMPLATED</a>.</p>
 </div>
 <!-- end #footer -->
 </body>

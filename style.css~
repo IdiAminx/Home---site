@@ -210,7 +210,7 @@ a:hover {
 
 #menu .current_page_item a {
 	background: #000000;
-	color: #fa6400;
+	color: #bc7a4a;
 }
 
 	/*Background*/
@@ -239,9 +239,13 @@ a:hover {
 }
 
 
+strong {
+	color: #718a98;
+}
+
 #content {
 	float: right;
-	width: 530px;
+	width: 600px;
 }
 
 #content a {
@@ -250,8 +254,8 @@ a:hover {
 
 #sidebar a {
 	float: left;
-	width: 270px;
-	color: #fa6400;
+	width: 170px;
+	color: #bc7a4a;
 	
 }
 
