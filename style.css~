@@ -677,6 +677,10 @@ a:hover {
 	margin: 0px auto;
 }
 
+#page a:hover {
+	color: #187ad0;
+}
+
 #page .fa
 {
 }
@@ -696,7 +700,7 @@ strong {
 
 #sidebar a {
 	float: left;
-	width: 170px;
+	width: 340px;
 	color: #bc7a4a;
 	
 }
