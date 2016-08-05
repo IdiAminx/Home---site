@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : Photoshoot 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20110926
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>HOME</title>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link href="/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel="stylesheet" href="/bootstrap.min.css">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.poptrox-0.1.js"></script>
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico">
+</head>
+<body>
+
+
+<!-- start #header -->
+<div id="header" class="container">
+
+	<!-- start #logo -->
+	<div id="logo">
+		<h1><a href="/">ID </a></h1>
+		<p>Powered by <a href="//templated.co" rel="nofollow">TEMPLATED</a></p>
+	</div>
+	<!-- end #logo -->
+
+	<!-- start #menu -->
+	<div id="menu">
+		<ul>
+			
+			<li class="current_page_item"><a href="#">ID's HOME</a></li>
+			<li><a href="#">Blog</a></li>
+			<li><a href="#">Photos</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+
+</div>
+<div id="page">
+	<nav><ul style="display: inline-block; horizontal-align: left;">
+						<a href="//git-scm.com"><img src="/images/2x.dark-git.png"></a><span><strong><h4>El comando git se encuentra para:</h4></strong></span>
+						<a href="//git-scm.com/download/mac"><span style="color: #53c2e1; padding: 10px;"><li padding="10" class="fa fa-apple"><strong>Mac OS X</strong></li></span></a>
+						<a href="//git-scm.com/download/win"><span style="color: #53c2e1; padding: 10px;"><li padding="10" class="fa fa-windows"><strong>Windows</strong></li></span></a>
+						<a href="//git-scm.com/download/linux"><span style="color: #53c2e1; padding: 10px;"><li padding="10" class="fa fa-linux"><strong>Linux</strong></li></span></a>
+					</ul>
+				<ul style="display: inline-block; horizontal-align: right;">
+                        		<a href="//twitter.com/idiaminx"><span style="color: #53c2e1"><li style="padding: 20px;" class="fa fa-twitter fa-2x"></li></span></a>
+                      			<a href="//www.facebook.com/135005666909120"><span style="color: #323299"><li style="padding: 20px;" class="fa fa-facebook fa-2x"></li></span></a>
+					<a href="//plus.google.com/u/2/114512980909663594893"><span style="color: #bf1a22"><li style="padding: 20px;" class="fa fa-google-plus fa-2x"></li></span></a>
+					<a href="//github.com/IdiAminx/Home---site"><span style="color: #ffffff"><li style="padding: 20px;" class="fa fa-github fa-2x"></li></span></a>
+					<a href="//github.com/idiaminx.atom"><span style="color: #ee681a"><li style="padding: 20px;" class="fa fa-rss fa-2x"></li></span></a>
+				</ul>
+			</nav>
+
+
+<div id="bg1">
+
+		<!-- start #bg2 -->
+		<div id="bg2">
+
+			<!-- start #bg3 -->
+			<div id="bg3">
+				
+				<div id="sidebar"></div>
+			</div>
+
+		</div>
+
+</div>
+<div id="footer">
+	<span><p>Esto es el pie</p></span>
+</div>
+</html>
