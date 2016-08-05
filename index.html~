@@ -118,9 +118,9 @@ Released   : 20110926
 					
 					<div class="list-group">
 						<a class="list-group-item" href="/nombre.html"> Nombre</a>
-  						<a class="list-group-item" href="/copia.html"> Clonar / Copiar</a>
-  						<a class="list-group-item" href="/deploy.html"> Construir Sitio / Deploy</a>
-  						<a class="list-group-item" href="/publicar.html"> Push / Publicar</a>
+  						<a class="list-group-item" href="/copia.html"> Clonar | Copiar</a>
+  						<a class="list-group-item" href="/deploy.html"> Construir Sitio | Deploy</a>
+  						<a class="list-group-item" href="/publicar.html"> Push | Publicar</a>
 						<a class="list-group-item" href="/dominio.html"> Dominio Propio</a>
 						<a class="list-group-item" href="/modificar.html"> Modificar Sitio</a>
 						<a class="list-group-item" href="/proyecto.html"> Proyecto</a>
